@@ -1,4 +1,4 @@
-# Task 2 – Refactoring Python Script and Unit Testing
+# Refactoring Python Script and Unit Testing
 
 This is my submission for Day 2 of the internship at CyArt. The task was to refactor a basic script and improve its structure using Python's advanced concepts. I also added unit tests using `pytest` to make the solution testable and reliable.
 
